@@ -1,0 +1,128 @@
+[
+	{
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+		"name": "Breakfast",
+        "image": "breakfast",
+		"items": [
+			{
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+				"name": "Maple French Toast",
+				"price": 6,
+                "image": "maple-french-toast",
+                "previewImage": "maple-french-toast-preview"
+			},
+			{
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+				"name": "Fresh-baked Croissant",
+				"price": 3,
+                "image": "fresh-baked-croissant",
+                "previewImage": "fresh-baked-croissant-preview"
+			}
+		]
+	},
+	{
+		"name": "Mains",
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+        "image": "mains",
+		"items": [
+			{
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+				"name": "Tower Burger",
+				"price": 12,
+                "image": "tower-burger",
+                "previewImage": "tower-burger-preview"
+			},
+			{
+                "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+				"name": "Thai Red Curry",
+				"price": 12,
+                "image": "thai-red-curry",
+                "previewImage": "thai-red-curry-preview"
+			},
+			{
+                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+				"name": "Superfood Salad",
+				"price": 9,
+                "image": "superfood-salad",
+                "previewImage": "superfood-salad-preview"
+			},
+			{
+                "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
+				"name": "Fillet Steak",
+				"price": 20,
+                "image": "fillet-steak",
+                "previewImage": "fillet-steak-preview"
+			},
+			{
+                "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+				"name": "Cheese Toastie",
+				"price": 7,
+                "image": "cheese-toastie",
+                "previewImage": "cheese-toastie-preview"
+			},
+			{
+                "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
+				"name": "Pepperoni Pizza",
+				"price": 14,
+                "image": "pepperoni-pizza",
+                "previewImage": "pepperoni-pizza-preview"
+			}
+		]
+	},
+	{
+		"name": "Dessert",
+        "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+        "image": "dessert",
+		"items": [
+			{
+                "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+				"name": "Strawberry Surprise",
+				"price": 6,
+                "image": "strawberry-surprise",
+                "previewImage": "strawberry-surprise-preview"
+			},
+			{
+                "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+				"name": "Macarons Galore",
+				"price": 8,
+                "image": "macarons-galore",
+                "previewImage": "macarons-galore-preview"
+			},
+			{
+                "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+				"name": "Super Sundae",
+				"price": 7,
+                "image": "super-sundae",
+                "previewImage": "super-sundae-preview"
+			}
+		]
+	},
+	{
+		"name": "Drinks",
+        "id": "CE3C67F9-79E3-46E3-B134-362A52ABFE3C",
+        "image": "drinks",
+		"items": [
+			{
+                "id": "FC201614-1418-4152-9469-087B27485D13",
+				"name": "Strawberry Cooler",
+				"price": 6,
+                "image": "strawberry-cooler",
+                "previewImage": "strawberry-cooler-preview"
+			},
+			{
+                "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+				"name": "Powerhouse coffee",
+				"price": 3,
+                "image": "powerhouse-coffee",
+                "previewImage": "powerhouse-coffee-preview"
+			},
+			{
+                "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+				"name": "Chrysanthemum Tea",
+				"price": 4,
+                "image": "chrysanthemum-tea",
+                "previewImage": "chrysanthemum-tea-preview"
+			}
+		]
+	}
+]
